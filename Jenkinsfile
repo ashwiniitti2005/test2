@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = "ashwini2006/my-python-app7"
+        DOCKER_IMAGE = "naveen04jan/my-python-app7"
         DOCKER_TAG = "latest"
     }
 
